@@ -1,12 +1,12 @@
 Summary:	Nagg - HDF NPP Aggregation tool
 Summary(pl.UTF-8):	Nagg - narzędzie do agregacji HDF NPP
 Name:		nagg
-Version:	1.4.0
-Release:	2
+Version:	1.5.1
+Release:	1
 Group:		Applications/File
 License:	BSD-like, changed sources must be marked
-Source0:	http://www.hdfgroup.uiuc.edu/ftp/pub/outgoing/NPOESS/source/NAGG/v140/%{name}-%{version}.tar.gz
-# Source0-md5:	eeb96e6c2087639d90ebfe1796f49709
+Source0:	http://www.hdfgroup.uiuc.edu/ftp/pub/outgoing/NPOESS/source/NAGG/%{name}-%{version}.tar.gz
+# Source0-md5:	345dc77e9d3c867eb7c9cbc10290f40b
 URL:		http://www.hdfgroup.org/projects/npoess/nagg_index.html
 BuildRequires:	hdf5-devel
 BuildRequires:	hdf5_hl_region-devel
